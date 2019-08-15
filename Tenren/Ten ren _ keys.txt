@@ -1,6 +1,35 @@
 ﻿
+Process:
+{
+	TopicType:
+	{
 
-Top: Gongcha, trà sữa, gong cha, Trung thu, 
+		News -> Youtube -> FacebookUser -> FacebookPage :{
+			1 = AuthorFanPage
+			2 = Positive
+		}
+	}
+	Content: 
+
+	Title:
+
+	
+
+	Fill Color:{
+		Red = Garbage: Ngon ngu chui tuc, khong gia tri, icon
+		Yellow = Worthless, Not available
+		Not Fill = Processing
+	}
+
+}
+
+
+Top: 
+{
+
+	key = Gongcha, trà sữa, gong cha, Trung thu, sữa, trà, tham gia
+}
+
 Competition: KOI, The Alley, Bopapop
 Rank: WiGo, Campg, FDishes
 
