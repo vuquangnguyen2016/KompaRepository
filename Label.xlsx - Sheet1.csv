@@ -1,0 +1,46 @@
+Group,,Label (Eng),Label (VN),Diễn giải,
+Activity (áp dụng cho all concept),Open,Grand Opening,Khai trương chi nhánh mới,Các hoạt động khai trương cửa hàng,Activity
+,MG,Mini-game,Trò chơi trên fanpage,Trò chơi có thưởng trên fanpage,Activity
+,Gpro,General Promotion,Các chương trình ưu đãi/ khuyến mãi,Các chương trình khuyến mãi,Activity
+,Jpro,Joint Promotion,,Chương trình khuyến mãi kết hợp,Activity
+,Ev,Event,Sự kiện,"Các sự kiện tổ chức tại nhà hàng, có biểu diễn nghệ thuật,...",Activity
+,NDs,New dishes / New drinks,Món ăn mới/ Thức uống mới,"Giới thiệu món mới (đồ ăn hoặc đồ uống), nhận xét về món mới. Thêm 1 type này cho các nội dung add vào Bi-weekly",Activity
+,Env,Environment Friendly,Thân thiện với môi trường,"Các hoạt động chương trình mang thông điệp bảo vệ môi trường (như thay đổi packaging thân thiện môi trường, mang ly đi được upsize miễn phí,...)",Activity
+,Gac,G-activity,Các hoạt động GGG,Các hoạt động nội bộ được GGG tổ chức cho nhân viên tham gia (thường có hashtag G-smile),Activity
+,Cpg,Campaign <Insert Campaign Name>,Chiến dịch <_>,Chiến dịch quảng cáo có tên và thông điệp cụ thể,Activity
+Food (áp dụng cho all concept),FD,Food display,Trình bày đồ ăn,Nhận xét về cách trình bày đồ ăn,Attribute
+,FT,Taste,Hương vị món ăn,"Hương vị của món ăn, đồ ăn có ngon, hợp khẩu vị không",Attribute
+,SSg,Seasoning,Nước sốt,"Nước xốt, xốt có đậm đà, hợp với đồ ăn",Attribute
+,SDs,Side dishes,Đồ ăn kèm,"Đồ ăn kèm, các món ăn kèm có nhiều không, ngon không",Attribute
+,Menu,Menu variety,Thực đơn phong phú/ Thông tin thực đơn,"Độ đa dạng của menu, menu có nhiều món không, menu đa dạng nhiều sự lựa chọn không",Attribute
+,Bev,Beverage,Đồ uống,Nước uống pha chế ngon không,Attribute
+,Fhy,Food hygiene,An toàn thực phẩm,"Chất lượng đồ ăn có hợp vệ sinh, an toàn thực phẩm không",
+,FDg,Food Packaging,,,Attribute
+"Restaurant (chỉ áp dụng cho BBQ, Hotpot, Japanese, Chinese Concept)",SDr,Space & Decoration,Không gian,"Không gian và trang trí của nhà hàng, trang trí, cơ sở vật chất bên trong",Attribute
+,Dst,Distribution,Hệ thống chi nhánh,"Chi nhánh có ở trung tâm không, có nhiều chi nhánh không",Attribute
+,Rhy,Restaurant hygiene & safety,An toàn/ vệ sinh nhà hàng,Chất lượng vệ sinh và sự an toàn của nhà hàng,Attribute
+Brand (áp dụng cho all concept),Love,Brand love,Thái độ về thương hiệu,Sự yêu thích / ghét đối với nhà hàng,Attribute
+,Rec,Recruitment,Chương trình tuyển dụng,Thông tin tuyển dụng nhà hàng,Activity
+,Comp,Comparison with others,So sánh thương hiệu,So sánh với các nhà hàng khác,Activity
+,Pr,Price,Giá cả,Thông tin giá cả,Attribute
+,CS,Customer service,Dịch vụ khách hàng,"Dịch vụ khách hàng, thái độ phục vụ của nhân viên",Attribute
+,Go,Willing to go,Sẵn lòng trải nghiệm,"Check-in tại nhà hàng, đã đang sẽ đi",Activity
+,Deli,Delivery service,Dịch vụ giao hàng,Dịch vụ giao hàng của nhà hàng,Attribute
+,Corp,Corporation,Thông tin tập đoàn,Các thông tin về tập đoàn GGG,Activity
+,Ow,Owners,Thông tin về chủ sở hữu,Các thông tin về chủ sở hữu nhà hàng (chỉ xuất hiện ở các brand đối thủ),Activity
+Drinks (chỉ áp dụng choTaiwan & Beer Concept),DT,Taste,Hương vị đồ uống,Hương vị đồ uống,Attribute
+,Menu,Menu variety,Thực đơn phong phú,"Độ đa dạng của menu đồ uống, có các đồ uống khác như rượu hay không
+",Attribute
+,Tp,Toppings,Topping,"Topping trên pizza, trong các đồ uống",Attribute
+,Dhy,Drinks hygiene,An toàn đồ uống,"Chất lượng đồ uống có hợp vệ sinh, an toàn thực phẩm không",Attribute
+,Org,Origin,"Nguồn gốc, xuất xứ","Nguồn gốc, xuất xứ của nguyên vật liệu, có thương hiệu đồ uống",Attribute
+,DPg,Drink Packaging,"Nói về loại li mới, hộp mới","Bao bì (mẫu ly, hộp pizza,...), nếu thay đổi mẫu mã thân thiện với môi trường thì chia vào Enviroment friendly, không chia vào đây",Attribute
+Beer Station (chỉ áp dụng cho Beer Concept),DBk,Direct Booking,Booking,Liên hệ trực tiếp đặt bàn,Activity
+,DJ,DJs & Dancers,Nhận xét về DJ / Dancers,DJs và Dancers,Attribute
+,Space,Space & environment,Không gian,"Không gian và môi trường, bao gồm cả nhạc",Attribute
+,Serc,Security,An ninh,"Vấn đề an ninh, an toàn",Attribute
+,Dist,Distribution,Hệ thống chi nhánh,"Chi nhánh có ở trung tâm không, có nhiều chi nhánh không",Attribute
+,BeHy,Beer station hygiene,Vệ sinh chi nhánh,Chất lượng vệ sinh của beer station,Attribute
+Store (chỉ áp dụng cho Taiwan Concept),Space,Space & Decoration,Không gian,Không gian và trang trí của nhà hàng,Attribute
+,Dst,Distribution,Hệ thống chi nhánh,"Chi nhánh có ở trung tâm không, có nhiều chi nhánh không",Attribute
+,Shy,Store hygiene & safety,An toàn/ vệ sinh cửa hàng,Chất lượng vệ sinh và sự an toàn của nhà hàng,Attribute
