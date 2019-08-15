@@ -1,5 +1,105 @@
-﻿Trà
-Sữa
-ly
-thèm
-tuyển
+﻿
+
+Top: Gongcha, trà sữa, gong cha, Trung thu, 
+Competition: KOI, The Alley, Bopapop
+Rank: WiGo, Campg, FDishes
+
+
+P =  {ngon, đi ngay, đi uống, đi luôn, đi lun, uống Gongcha, uống ngay, uống, fan ruột, fan,  }
+Neu = {chờ sau, cũng được}
+Neg =  {chê, nạt, mắc, }
+
+If = 
+
+Activity----------------------------------------
+
+
+
+GrOpenning	Grand Opening
+MiG	Mini-game
+GePr	General Promotion
+JoPr	Joint Promotion
+Ev	Event
+NwDr	New dishes / New drinks
+EvFr	Environment Friendly
+Gact	G-activity
+Cmpg	Campaign <Insert Campaign Name>
+
+Key={Tết Trung Thu}
+
+
+
+
+
+Food----------------------------------------
+
+FdD	Food display
+FTs	Taste
+Ss	Seasoning
+SdD	Side dishes
+Menu	Menu variety
+Bev	Beverage
+FdHy	Food hygiene
+FdPg	Food 
+
+
+Restaurant------------------------------------
+
+SpD	Space & Decoration
+Dst	Distribution
+ResHy	Restaurant hygiene & safety
+
+
+
+
+Brand------------------------------------
+
+BrL	Brand love = {
+	
+		P = Thích, fan, khoái, tiếng
+		Neu =  
+		Neg = Buồn, Không, 
+		}
+
+Rec	Recruitment = 
+Comp	Comparison with others
+Price	Price
+CS	Customer service
+WiGo	Willing to go 
+	= {Nào, không, đi thôi, có liền, ...nha, dám thử.....}
+DeSr	Delivery service = {}
+Corp	Corporation
+Own	Owners
+
+
+
+Drink------------------------------------
+
+
+DrT	Taste
+Menu	Menu variety
+Toppings	Toppings = {Toppings Hạt sen, trái cấy}
+DrHy	Drinks hygiene
+Orgin	Origin
+DrPg	Drink Packaging
+
+
+
+BeerStation------------------------------------
+
+
+DrBook	Direct Booking
+DJ	DJs & Dancers
+SpEv	Space & environment
+Sec	Security
+Dst	Distribution
+BeerHy	Beer station hygiene
+
+
+
+Store------------------------------------
+
+SpDec	Space & Decoration
+Dst	Distribution
+StoreHy	Store hygiene & safety
+
