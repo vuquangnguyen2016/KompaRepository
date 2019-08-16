@@ -5,7 +5,7 @@ Process:
 	{
 
 		News -> Youtube -> FacebookUser -> FacebookPage :{
-			1 = AuthorFanPage
+			1 = AuthorFanPage, Adminfanpage comment and share
 			2 = Positive
 		}
 	}
@@ -27,7 +27,7 @@ Process:
 Top: 
 {
 
-	key = Gongcha, trà sữa, gong cha, Trung thu, sữa, trà, tham gia
+	key = Ten ren, trà sữa, gong cha, Trung thu, sữa, trà, tham gia, king olong, trà đậm,
 }
 
 Competition: KOI, The Alley, Bopapop
